@@ -12,7 +12,7 @@
   * Gene regulatory networks
   * Antigen-Antibody binding
   * Single-cell RNA-seq analysis
-  * Multi-scale models of the immune system
+  * Multi-scale hybrid models of the immune system
   
 * ⚡In my spare time:
   * I am a Blockchain/Web3 developer and the Co-founder and CTO of [Peer2Panel](https://www.peer2panel.com/), a blockchain startup with focus on solar energy.
