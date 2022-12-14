@@ -1,6 +1,6 @@
 
 ### Short Bio
-[![Website](https://img.shields.io/badge/Website-success?style=flat&logo=Website&logoColor=white&link=https://www.aurelienpelissier.com/)](https://www.aurelienpelissier.com/) &nbsp;
+[![Website](https://img.shields.io/badge/Website-success?style=flat&logo=appveyor&logoColor=white&link=https://www.aurelienpelissier.com/)](https://www.aurelienpelissier.com/) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aurelien-pelissier-24375a13a/)](https://www.linkedin.com/in/aurelien-pelissier-24375a13a/) 
 
 * 🎓  Education:
