@@ -1,4 +1,4 @@
-## Hi! I'm Estella 👋
+## Short Bio
 
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/EstellaD/EstellaD/master/My_Octocat_Github.png">
