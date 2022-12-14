@@ -3,8 +3,8 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/EstellaD/EstellaD/master/My_Octocat_Github.png">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aurelien-pelissier-24375a13a/)](https://www.linkedin.com/in/aurelien-pelissier-24375a13a/) 
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=Medium&logoColor=white&link=https://aurelien-pelissier.medium.com/)](https://aurelien-pelissier.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/aurelien-pelissier-24375a13a/)](https://www.linkedin.com/in/aurelien-pelissier-24375a13a/) 
+[![Medium](https://img.shields.io/badge/Medium-white?style=flat&logo=Medium&logoColor=black&link=https://aurelien-pelissier.medium.com/)](https://aurelien-pelissier.medium.com/)
 
 * 🎓  I am currently doing my PhD at IBM Research Zurich in the Computational Systems Biology team, in a joint program with ETH Zurich.
 * 📖  I received my master degree from the [École Normale Supérieure (ENS) Paris-Saclay][https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay] in fundamental physics
