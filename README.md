@@ -4,9 +4,9 @@
 
 * 🎓  Education:
   * I am currently doing my PhD at IBM Research Zurich in the [Computational Systems Biology team](https://www.zurich.ibm.com/compsysbio/), in a joint program with ETH Zurich.
-  * I received my master degree from the [École Normale Supérieure (ENS) Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay) in fundamental physics
+  * I received my master degree from the [École Normale Supérieure (ENS) Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay) in fundamental physics.
   
-* 🔭  My research interests are:
+* 🔭  My current research interests are:
   * Non-Markovian stochastic systems
   * Gene regulatory networks
   * Antigen-Antibody binding
