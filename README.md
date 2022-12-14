@@ -7,7 +7,7 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=Medium&logoColor=white&link=https://aurelien-pelissier.medium.com/)](https://aurelien-pelissier.medium.com/)
 
 * 🎓  I am currently doing my PhD at IBM Research Zurich in the Computational Systems Biology team, in a joint program with ETH Zurich.
-* 📖  I received my master degree from the [École Normale Supérieure (ENS) Paris-Saclay][https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay] in fundamental physics
+* 📖  I received my master degree from the [École Normale Supérieure (ENS) Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay) in fundamental physics
 * 🔭  My research interests are:
   * Bayesian methods
   * Spatial transcriptomics
