@@ -1,6 +1,7 @@
 
 ### Short Bio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aurelien-pelissier-24375a13a/)](https://www.linkedin.com/in/aurelien-pelissier-24375a13a/) 
+[![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=Website&logoColor=white&link=https://www.aurelienpelissier.com/)](https://www.aurelienpelissier.com/) 
 
 * 🎓  Education:
   * I am doing my PhD at IBM Research Zurich in the [Computational Systems Biology team](https://www.zurich.ibm.com/compsysbio/), in a joint program with ETH Zurich.
