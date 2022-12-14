@@ -15,9 +15,8 @@
   * Multi-scale models of Germinal Centers
 
 * ⚡In my spare time:
-  [![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=Medium&logoColor=white&link=https://aurelien-pelissier.medium.com/)](https://aurelien-pelissier.medium.com/)
   * I am a Blockchain/Web3 developer and the Co-founder and CTO of Peer2Panel, a blockchain startup with focus on solar energy.
-  * I am a writer on Medium, where I cover diverse topics, such as data science, blockchain, physics, economy and philosophy.
+  * I am a writer on [![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=Medium&logoColor=white&link=https://aurelien-pelissier.medium.com/)](https://aurelien-pelissier.medium.com/), where I cover diverse topics, such as data science, blockchain, physics, economy and philosophy.
 
 
 <!--
