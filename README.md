@@ -5,12 +5,24 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=Medium&logoColor=white&link=https://aurelien-pelissier.medium.com/)](https://aurelien-pelissier.medium.com/)
 
 * 🎓  I am currently doing my PhD at IBM Research Zurich in the [Computational Systems Biology team](https://www.zurich.ibm.com/compsysbio/), in a joint program with ETH Zurich.
-* 📖  I received my master degree from the [École Normale Supérieure (ENS) Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay) in fundamental physics
+
+* 🎓  I received my master degree from the [École Normale Supérieure (ENS) Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay) in fundamental physics
+
 * 🔭  My research interests are:
-  * Bayesian methods
-  * Spatial transcriptomics
-  * Single-cell RNA-sequencing
-  * Proteomics
+  * Non-Markovian stochastic systems
+  * Gene regulatory networks
+  * Antigen-Antibody binding
+  * Single-cell RNA-seq analysis
+  * Multi-scale models of Germinal Centers
+
+* 🔭 More generally, my academic skills cover
+  * Stochastic processes
+  * Bayesian statistics
+  * Interpretable ML
+  * Deep & Reinforcement learning
+  * Computer vision
+
+* ⚡In my spare time
 
 
 <!--
