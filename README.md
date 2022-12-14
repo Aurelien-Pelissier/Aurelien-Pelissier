@@ -1,4 +1,3 @@
-## Short Bio
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aurelien-pelissier-24375a13a/)](https://www.linkedin.com/in/aurelien-pelissier-24375a13a/) 
@@ -12,7 +11,7 @@
   * Gene regulatory networks
   * Antigen-Antibody binding
   * Single-cell RNA-seq analysis
-  * Multi-scale models of Germinal Centers
+  * Multi-scale models of the immune system
   
 * ⚡In my spare time:
   * I am a Blockchain/Web3 developer and the Co-founder and CTO of [Peer2Panel](https://www.peer2panel.com/), a blockchain startup with focus on solar energy.
