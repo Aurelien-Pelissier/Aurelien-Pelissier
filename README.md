@@ -2,7 +2,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aurelien-pelissier-24375a13a/)](https://www.linkedin.com/in/aurelien-pelissier-24375a13a/) 
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=Medium&logoColor=white&link=https://aurelien-pelissier.medium.com/)](https://aurelien-pelissier.medium.com/)
+
 * 🎓  Education:
   * I am currently doing my PhD at IBM Research Zurich in the [Computational Systems Biology team](https://www.zurich.ibm.com/compsysbio/), in a joint program with ETH Zurich.
   * I received my master degree from the [École Normale Supérieure (ENS) Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay) in fundamental physics
@@ -15,6 +15,7 @@
   * Multi-scale models of Germinal Centers
 
 * ⚡In my spare time:
+  [![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=Medium&logoColor=white&link=https://aurelien-pelissier.medium.com/)](https://aurelien-pelissier.medium.com/)
   * I am a Blockchain/Web3 developer and the Co-founder and CTO of Peer2Panel, a blockchain startup with focus on solar energy.
   * I am a writer on Medium, where I cover diverse topics, such as data science, blockchain, physics, economy and philosophy.
 
