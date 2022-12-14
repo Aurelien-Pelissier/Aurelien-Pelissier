@@ -15,6 +15,12 @@
   * Single-cell RNA-seq analysis
   * Multi-scale models of Germinal Centers
 
+* ⚡In my spare time:
+  * I am a Blockchain/Web3 developer and the Co-founder and CTO of Peer2Panel, a blockchain startup with focus on solar energy.
+  * I am a writer on Medium, where I cover diverse topics, such as data science, blockchain, physics, economy and philosophy.
+
+
+<!--
 * 🔭 More generally, my academic skills cover
   * Stochastic processes
   * Bayesian statistics
@@ -22,10 +28,10 @@
   * Deep & Reinforcement learning
   * Computer vision
 
-* ⚡In my spare time
 
 
-<!--
+
+
 **Aurelien-Pelissier/Aurelien-Pelissier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 The octocat is from here: [#myoctocat](https://myoctocat.com/build-your-octocat/?fbclid=IwAR1rL00Bp6V7lGF_pnqQfda87wqIMGWQ_bH7Ve3HlWKakWcZ-Y7-t3UCnig)
 Here are some ideas to get you started:
