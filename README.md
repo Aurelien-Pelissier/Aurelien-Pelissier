@@ -17,7 +17,7 @@
   * Quantum computing
   * Blockchain
   
-* 🔭  My current research interests are:
+* 🔭  My current research interests in healthcare are:
   * Non-Markovian stochastic systems
   * Gene regulatory networks
   * Antigen-Antibody binding
