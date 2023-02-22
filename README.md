@@ -12,11 +12,6 @@
     * Time series analysis, Computer vision, NLP, Auto-encoders, Contrastive learning
     * Quantum computing, Blockchain.
 
-* ⚡In my spare time:
-  * I am a Blockchain/Web3 developer and the Co-founder and CTO of [Peer2Panel](https://www.peer2panel.com/), a blockchain startup with focus on solar energy.
-  * I develop AI frameworks for optimal poker strategies and cryptocurrency trading (RL, social media impact, orderbook data and statistical arbitrage)
-  * I am a writer on [Medium](https://aurelien-pelissier.medium.com/), where I cover diverse topics, such as data science, blockchain, physics, economy and philosophy.  
-  
 * 🔭  My current research interests in healthcare are:
   * Drug discovery
   * Gene regulatory networks
@@ -24,6 +19,11 @@
   * Single-cell RNA-seq analysis
   * Non-Markovian stochastic systems
   * Multi-scale hybrid models of the immune system
+
+* ⚡In my spare time:
+  * I am a Blockchain/Web3 developer and the Co-founder and CTO of [Peer2Panel](https://www.peer2panel.com/), a blockchain startup with focus on solar energy.
+  * I develop AI frameworks for optimal poker strategies and cryptocurrency trading (RL, social media impact, orderbook data and statistical arbitrage)
+  * I am a writer on [Medium](https://aurelien-pelissier.medium.com/), where I cover diverse topics, such as data science, blockchain, physics, economy and philosophy.
 
 
 <!--
