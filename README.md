@@ -8,8 +8,7 @@
   * I received my master degree from the [École Normale Supérieure (ENS) Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay) in fundamental physics.
 
 * 🎓 I have practical and fundamental expertise in:
-  * Stochastic processes, Bayesian statistics, Interpretable ML, Reinforcement learning
-    Time series analysis, Computer vision, Quantum computing, Blockchain
+  * Stochastic processes, Bayesian statistics, Interpretable ML, Reinforcement learning, Geometric deep learning, Time series analysis, Computer vision, Quantum computing, Blockchain
   
 * 🔭  My current research interests in healthcare are:
   * Drug discovery
