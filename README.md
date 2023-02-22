@@ -9,8 +9,8 @@
   * I have practical and fundamental expertise in: 
     * Stochastic processes, Bayesian statistics, Interpretable ML, Geometric deep learning
     * Reinforcement Learning (Bandit, MCTS, Deep)
-    * NLP, Auto-encoders, contrastive learning
-    * Time series analysis, Computer vision, Quantum computing, Blockchain.
+    * Computer vision, NLP, Auto-encoders, Contrastive learning
+    * Time series analysis, Quantum computing, Blockchain.
   
 * 🔭  My current research interests in healthcare are:
   * Drug discovery
