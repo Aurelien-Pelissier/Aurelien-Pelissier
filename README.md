@@ -6,6 +6,16 @@
 * 🎓  Education:
   * I am doing my PhD at IBM Research Zurich in the [Computational Systems Biology team](https://www.zurich.ibm.com/compsysbio/), in a joint program with ETH Zurich.
   * I received my master degree from the [École Normale Supérieure (ENS) Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay) in fundamental physics.
+
+* 🎓 I have mathematical expertise in:
+  * Stochastic processes
+  * Bayesian statistics
+  * Interpretable ML
+  * Time series analysis
+  * Reinforcement learning
+  * Computer vision
+  * Quantum computing
+  * Blockchain
   
 * 🔭  My current research interests are:
   * Non-Markovian stochastic systems
