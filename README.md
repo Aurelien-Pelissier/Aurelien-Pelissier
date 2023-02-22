@@ -7,25 +7,21 @@
   * I am doing my PhD at IBM Research Zurich in the [Computational Systems Biology team](https://www.zurich.ibm.com/compsysbio/), in a joint program with ETH Zurich.
   * I received my master degree from the [École Normale Supérieure (ENS) Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay) in fundamental physics.
 
-* 🎓 I have mathematical expertise in:
-  * Stochastic processes
-  * Bayesian statistics
-  * Interpretable ML
-  * Time series analysis
-  * Reinforcement learning
-  * Computer vision
-  * Quantum computing
-  * Blockchain
+* 🎓 I have practical and fundamental expertise in:
+  * Stochastic processes, Bayesian statistics, Interpretable ML, Reinforcement learning
+    Time series analysis, Computer vision, Quantum computing, Blockchain
   
 * 🔭  My current research interests in healthcare are:
-  * Non-Markovian stochastic systems
+  * Drug discovery
   * Gene regulatory networks
   * Antigen-Antibody binding
   * Single-cell RNA-seq analysis
+  * Non-Markovian stochastic systems
   * Multi-scale hybrid models of the immune system
   
 * ⚡In my spare time:
   * I am a Blockchain/Web3 developer and the Co-founder and CTO of [Peer2Panel](https://www.peer2panel.com/), a blockchain startup with focus on solar energy.
+  * I develop AI frameworks for poker and cryptocurrency trading (RL, social media impact, orderbook data and statistical arbitrage)
   * I am a writer on [Medium](https://aurelien-pelissier.medium.com/), where I cover diverse topics, such as data science, blockchain, physics, economy and philosophy.  
 
 
