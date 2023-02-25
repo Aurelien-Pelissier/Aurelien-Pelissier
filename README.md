@@ -12,7 +12,7 @@
     * Time series analysis, Computer vision, NLP, Auto-encoders, Contrastive learning
     * Quantum computing, Blockchain.
 
-* 🔭  My current research interests in healthcare are:
+* 🔭  My current research interests in Healthcare cover:
   * Drug discovery
   * Gene regulatory networks
   * Antigen-Antibody binding
