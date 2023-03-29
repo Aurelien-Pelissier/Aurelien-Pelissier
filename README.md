@@ -10,7 +10,7 @@
     * Stochastic processes, Bayesian statistics, Interpretable ML, Geometric deep learning
     * Reinforcement Learning (Bandit, MCTS, Deep)
     * Time series analysis, Computer vision, NLP, Auto-encoders, Contrastive learning
-    * Quantum computing, Quantum Machine Learning.
+    * Quantum Computing / Machine Learning.
     * Blockchain / Web3.
 
 * 🔭  My current research interests in Healthcare cover:
@@ -20,7 +20,7 @@
   * Single-cell RNA-seq analysis
   * Non-Markovian stochastic systems
   * Multi-scale hybrid models of the immune system
-  * Quantum Machine Learning application for Healthcare
+  * Quantum Machine Learning for Healthcare applications
 
 * ⚡In my spare time:
   * I am a Blockchain/Web3 developer and the Co-founder and CTO of [Peer2Panel](https://www.peer2panel.com/), a blockchain startup with focus on solar energy.
