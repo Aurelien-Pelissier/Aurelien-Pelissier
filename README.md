@@ -11,7 +11,7 @@
     * Reinforcement Learning (Bandit, MCTS, Deep)
     * Time series analysis, Computer vision, NLP, Auto-encoders, Contrastive learning
     * Quantum computing, Quantum Machine Learning.
-    * Blockchain, Web3.
+    * Blockchain / Web3.
 
 * 🔭  My current research interests in Healthcare cover:
   * Drug discovery
