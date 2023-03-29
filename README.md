@@ -19,6 +19,7 @@
   * Single-cell RNA-seq analysis
   * Non-Markovian stochastic systems
   * Multi-scale hybrid models of the immune system
+  * Quantum Machine Learning application for Healthcare
 
 * ⚡In my spare time:
   * I am a Blockchain/Web3 developer and the Co-founder and CTO of [Peer2Panel](https://www.peer2panel.com/), a blockchain startup with focus on solar energy.
