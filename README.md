@@ -14,12 +14,12 @@
     * Blockchain / Web3 / Smart contracts
 
 * 🔭  My current research interests in Healthcare cover:
-  * Drug discovery [repo](https://github.com/Aurelien-Pelissier/RA-drug-discovery)
-  * Gene regulatory networks [repo](https://github.com/Aurelien-Pelissier/RA-drug-discovery)
-  * Antigen-Antibody binding [repo](https://github.com/Aurelien-Pelissier/Ab-binding)
-  * Single-cell RNA-seq analysis [repo](https://github.com/Aurelien-Pelissier/cdiversity)
-  * Non-Markovian stochastic systems [repo](https://github.com/Aurelien-Pelissier/REGIR)
-  * Multi-scale hybrid models of the immune system [repo](https://github.com/Aurelien-Pelissier/Germinal-Center)
+  * Drug discovery [[repo]](https://github.com/Aurelien-Pelissier/RA-drug-discovery)
+  * Gene regulatory networks [[repo]](https://github.com/Aurelien-Pelissier/RA-drug-discovery)
+  * Antigen-Antibody binding [[repo]](https://github.com/Aurelien-Pelissier/Ab-binding)
+  * Single-cell RNA-seq analysis [[repo]](https://github.com/Aurelien-Pelissier/cdiversity)
+  * Non-Markovian stochastic systems [[repo]](https://github.com/Aurelien-Pelissier/REGIR)
+  * Multi-scale hybrid models of the immune system [[repo]](https://github.com/Aurelien-Pelissier/Germinal-Center)
   * Quantum Machine Learning for Healthcare applications
 
 * ⚡In my spare time:
