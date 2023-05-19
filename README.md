@@ -17,9 +17,9 @@
   * [[*repo*]](https://github.com/Aurelien-Pelissier/RA-drug-discovery) Drug discovery
   * [[*repo*]](https://github.com/Aurelien-Pelissier/RA-drug-discovery) Gene regulatory networks
   * [[*repo*]](https://github.com/Aurelien-Pelissier/Ab-binding) Antigen-Antibody binding
-  * Single-cell RNA-seq analysis [[*repo*]](https://github.com/Aurelien-Pelissier/cdiversity)
-  * Non-Markovian stochastic systems [[*repo*]](https://github.com/Aurelien-Pelissier/REGIR)
-  * Multi-scale hybrid models of the immune system [[*repo*]](https://github.com/Aurelien-Pelissier/Germinal-Center)
+  * [[*repo*]](https://github.com/Aurelien-Pelissier/cdiversity)Single-cell RNA-seq analysis
+  * [[*repo*]](https://github.com/Aurelien-Pelissier/REGIR) Non-Markovian stochastic systems
+  * [[*repo*]](https://github.com/Aurelien-Pelissier/Germinal-Center) Multi-scale hybrid models of the immune system
   * Quantum Machine Learning for Healthcare applications
 
 * ⚡In my spare time:
