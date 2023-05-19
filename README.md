@@ -14,7 +14,7 @@
     * Blockchain / Web3 / Smart contracts
 
 * 🔭  My current research interests in Healthcare cover:
-  * Drug discovery [[repo]](https://github.com/Aurelien-Pelissier/RA-drug-discovery)
+  * Drug discovery [[*repo*]](https://github.com/Aurelien-Pelissier/RA-drug-discovery)
   * Gene regulatory networks [[repo]](https://github.com/Aurelien-Pelissier/RA-drug-discovery)
   * Antigen-Antibody binding [[repo]](https://github.com/Aurelien-Pelissier/Ab-binding)
   * Single-cell RNA-seq analysis [[repo]](https://github.com/Aurelien-Pelissier/cdiversity)
