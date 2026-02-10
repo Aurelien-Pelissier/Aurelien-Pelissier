@@ -13,7 +13,7 @@
     * Quantum Computing / Quantum Machine Learning
     * Blockchain / Web3 / Smart contracts
 
-* 🔭  My current research interests in Healthcare cover:
+* 🔭  My current research interests in Biotech cover:
   * [[*repo*]](https://github.com/Aurelien-Pelissier/RA-drug-discovery) Drug discovery
   * [[*repo*]](https://github.com/Aurelien-Pelissier/RA-drug-discovery) Gene regulatory networks
   * [[*repo*]](https://github.com/Aurelien-Pelissier/Ab-binding) Antigen-Antibody binding
