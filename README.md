@@ -4,9 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aurelien-pelissier-24375a13a/)](https://www.linkedin.com/in/aurelien-pelissier-24375a13a/) 
 
 * 🚀 Relevant Roles:
-   * ML Scientist @ X (Google Moonshot Lab): Perturbation modeling and Synthetic Biology.
-   * Postdoctoral Scientist @ Yale University: GenAI and Foundation models.
-   * ML Scientist @ IBM Research: AI for Scientific Discovery.
+   * **ML Scientist @ X (Google Moonshot Lab)**: Perturbation modeling and Synthetic Biology.
+   * **Postdoctoral Scientist @ Yale University**: GenAI and Foundation models.
+   * **ML Scientist @ IBM Research**: AI for Scientific Discovery.
 
 * 🎓  Education:
   * I obtained my PhD from ETH Zurich, in a joint program with IBM Research Zurich, in the [Computational Systems Biology team](https://www.zurich.ibm.com/compsysbio/).
