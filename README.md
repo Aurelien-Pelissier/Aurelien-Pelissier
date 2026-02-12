@@ -3,9 +3,10 @@
 [![Website](https://img.shields.io/badge/Website-success?style=flat&logo=appveyor&logoColor=white&link=https://www.aurelienpelissier.com/)](https://www.aurelienpelissier.com/) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aurelien-pelissier-24375a13a/)](https://www.linkedin.com/in/aurelien-pelissier-24375a13a/) 
 
-* 🚀 Relevant Roles:
+* 🚀 Past and current Roles:
    * **ML Scientist @ X (Google Moonshot Lab)**: Perturbation modeling and Synthetic Biology.
    * **Postdoctoral Scientist @ Yale University**: GenAI and Foundation models.
+   * **ML Research Collaborator @ UBC**: Organoid-on-Chip Profiling.
    * **ML Scientist @ IBM Research**: AI for Scientific Discovery.
 
 * 🎓  Education:
