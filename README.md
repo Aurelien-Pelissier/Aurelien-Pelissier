@@ -9,7 +9,7 @@
    * ML Scientist @ IBM Research: AI for Scientific Discovery.
 
 * 🎓  Education:
-  * I recently obtained my PhD from ETH Zurich, in a joint program with IBM Research Zurich, in the [Computational Systems Biology team](https://www.zurich.ibm.com/compsysbio/).
+  * I obtained my PhD from ETH Zurich, in a joint program with IBM Research Zurich, in the [Computational Systems Biology team](https://www.zurich.ibm.com/compsysbio/).
   * I received my master degree from the [École Normale Supérieure (ENS) Paris-Saclay](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay) in fundamental physics.
   * I have practical and fundamental expertise in: 
     * Stochastic processes, Bayesian statistics, Interpretable ML, Geometric deep learning
