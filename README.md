@@ -5,7 +5,7 @@
 
 * 🚀 Past and current Roles:
    * **ML Scientist @ X (Google Moonshot Lab)**: Perturbation modeling and Synthetic Biology.
-   * **Postdoctoral Scientist @ Yale School of Medicine**: GenAI and Foundation models.
+   * **Postdoctoral Scientist @ Yale School of Medicine**: GenAI and BioFoundation models.
    * **ML Collaborator @ UBC**: Organoid-on-Chip Profiling.
    * **ML Scientist @ IBM Research**: AI for Scientific Discovery.
 
